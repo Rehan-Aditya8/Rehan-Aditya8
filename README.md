@@ -8,8 +8,7 @@
 - 💡 Building a mini project for college
 
 🛠️ Tech Stack I’m familiar with:
-- Python, Java, C
-- Git & GitHub (of course!)
+- Java, C
 - Working on getting better every day 💪
 
 🎯 My Goal:
