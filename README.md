@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there! I'm Rehan Aditya
 
-<!--
-**Rehan-Aditya8/Rehan-Aditya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student in Computer Engineering, passionate about learning and building cool stuff with code.
 
-Here are some ideas to get you started:
+💻 Currently exploring:
+- 🌐 Frontend basics (HTML, CSS)
+- ☕ Java & 🐍 Python programming
+- 💡 Building a mini project for college
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack I’m familiar with:
+- Python, Java, C
+- Git & GitHub (of course!)
+- Working on getting better every day 💪
+
+🎯 My Goal:
+To become a skilled and confident programmer ready to build real-world solutions and explore exciting tech opportunities!
+
+📫 Reach me at:  
+📧 [Email](mailto:rehanaditya0812@gmail.com) ✉️  
+💬 [Telegram](https://t.me/rehanaditya8) 📲
+
+Thanks for stopping by! 😊
