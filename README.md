@@ -4,8 +4,7 @@
 
 💻 Currently exploring:
 - 🌐 Frontend basics (HTML, CSS)
-- ☕ Java & 🐍 Python programming
-- 💡 Building a mini project for college
+- ☕ Learning 🐍 Python programming
 
 🛠️ Tech Stack I’m familiar with:
 - Java, C
