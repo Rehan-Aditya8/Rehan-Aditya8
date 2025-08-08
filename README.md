@@ -3,11 +3,11 @@
 🎓 I'm a B.Tech student in Computer Engineering, passionate about learning and building cool stuff with code.
 
 💻 Currently exploring:
-- 🌐 Frontend basics (HTML, CSS)
+- 🌐 Frontend (JavaScript)
 - ☕ Learning 🐍 Python programming
 
-🛠️ Tech Stack I’m familiar with:
-- Java, C
+🛠️ Tech I’m familiar with:
+- C, HTML, CSS
 - Working on getting better every day 💪
 
 🎯 My Goal:
